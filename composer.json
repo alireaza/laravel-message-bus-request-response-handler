@@ -1,6 +1,6 @@
 {
   "name": "alireaza/laravel-message-bus-request-response-handler",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "type": "library",
   "license": "MIT",
   "description": "This is a Request-Response Handler for Laravel Message Bus.",
